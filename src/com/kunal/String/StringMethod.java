@@ -1,4 +1,4 @@
-// package com.kunal.String;
+ package com.kunal.String;
 //    STRING METHOD
 //    1.equals()
 //    2.equalsIgnoreCase
@@ -82,9 +82,9 @@ public class StringMethod {
 //        System.out.println(s.length());
 
 //        String valueOf()
-//            int a=10;
-//            String s=String.valueOf(a);
-//            System.out.println(s+10);
+            int a=10;
+            String s=String.valueOf(a);
+            System.out.println(s+10);
 //
 //        string replace()
 //        String name = " java concept";
@@ -97,10 +97,10 @@ public class StringMethod {
 //        System.out.println(replaceString);
 
 ////     contains()
-//        String name = " Java concept of   the day";
-//        boolean s= name.contains("concept of");
-//        System.out.println(s);
-//        System.out.println(name.contains("java"));// case sensitive
+        String name = " Java concept of   the day";
+        boolean s5= name.contains("concept of");
+        System.out.println(s5);
+        System.out.println(name.contains("java"));// case sensitive
 
 
     }
